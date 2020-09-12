@@ -8,4 +8,4 @@ We had release 10+ Blocks on Internet, to help you import those block easily, we
 
 ## Download
 
-Go to this repo's release to download the Block import tool. [Latest release](https://github.com/a10036gt/OFDL-EV3_Blocks-Collections/releases).
+Go to this repo's release to download the Block auto import tool(Windows only). [Latest release](https://github.com/a10036gt/OFDL-EV3_Blocks-Collections/releases/latest).
